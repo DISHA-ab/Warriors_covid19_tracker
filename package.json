@@ -1,0 +1,15 @@
+{
+  "name": "cov19",
+  "version": "1.0.0",
+  "description": "COVID-19 with HTML5, CSS3 and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
+  }
+}
